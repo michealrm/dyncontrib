@@ -2,5 +2,5 @@
 	path = wiki
 	url = https://github.com/alexanderjulo/wiki
 [submodule "pywiki"]
-	path = pywiki
+	path = wiki_demo
 	url = https://github.com/tobyqin/pywiki
