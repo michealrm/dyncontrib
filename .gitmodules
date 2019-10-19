@@ -1,0 +1,6 @@
+[submodule "wiki"]
+	path = wiki
+	url = https://github.com/alexanderjulo/wiki
+[submodule "pywiki"]
+	path = pywiki
+	url = https://github.com/tobyqin/pywiki
